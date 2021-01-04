@@ -1,0 +1,17 @@
+访问URL：
+
+http://localhost:9083/ectcnaccountpowerlog/getall
+
+http://localhost:9083/sysuser/getall
+
+
+
+
+
+
+
+
+
+
+
+
