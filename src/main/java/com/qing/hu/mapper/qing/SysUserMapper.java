@@ -1,4 +1,4 @@
-package com.qing.hu.mapper;
+package com.qing.hu.mapper.qing;
 
 import com.qing.hu.entity.SysUser;
 import com.qing.hu.mapper.base.BaseMapper;

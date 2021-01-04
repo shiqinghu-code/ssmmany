@@ -287,6 +287,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-aop</artifactId>
 		</dependency>
+
 		<!-- 依赖在此上面加 -->
 	</dependencies>
 	<!-- 微服务jar <dependencyManagement> <dependencies> <dependency> <groupId>org.springframework.cloud</groupId> 

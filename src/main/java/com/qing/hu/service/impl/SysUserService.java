@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.qing.hu.entity.SysUser;
-import com.qing.hu.mapper.SysUserMapper;
 import com.qing.hu.mapper.base.BaseMapper;
+import com.qing.hu.mapper.qing.SysUserMapper;
 import com.qing.hu.service.ISysUserService;
 import com.qing.hu.service.base.impl.BaseService;
 

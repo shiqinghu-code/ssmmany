@@ -1,4 +1,4 @@
-package com.qing.hu.mapper;
+package com.qing.hu.mapper.hu;
 
 import com.qing.hu.entity.EctCnAccountPowerLog;
 import com.qing.hu.mapper.base.BaseMapper;
