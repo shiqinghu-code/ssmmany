@@ -22,7 +22,7 @@ logging:
 fastdep:
   datasource:
     one:
-      mapper: com.qing.hu.mapper.qing
+      mapper: com.qing.hu.mapper.qing,com.qing.hu.mapper.shi
       driver-class-name: com.mysql.cj.jdbc.Driver
       url: jdbc:mysql://localhost:3306/qing?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&autoReconnect=true&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=GMT%2B8&useSSL=false&allowPublicKeyRetrieval=true
       username: root

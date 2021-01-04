@@ -163,7 +163,7 @@ public class FastDepDataSourceRegister implements EnvironmentAware, ImportBeanDe
                 logger.error("Failed to configure fastDep dataSource: fastdep.datasource." + key + ".mapper cannot be null.");
                 return;
             }
-            scanner.doScan(mapperProperty);
+            scanner.doScan(mapperProperty.split(","));
             logger.info("Registration dataSource ({}DataSource) !", key);
         }
         logger.info("Registration dataSource completed !");
