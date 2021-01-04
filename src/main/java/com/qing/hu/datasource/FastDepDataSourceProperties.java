@@ -1,4 +1,4 @@
-package com.louislivi.fastdep.datasource;
+package com.qing.hu.datasource;
 
 import com.alibaba.druid.pool.xa.DruidXADataSource;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;

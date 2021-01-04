@@ -1,4 +1,4 @@
-package com.louislivi.fastdep.datasource;
+package com.qing.hu.datasource;
 
 import java.util.Arrays;
 import java.util.List;
@@ -32,6 +32,8 @@ import com.alibaba.druid.pool.DruidDataSource;
 import com.atomikos.jdbc.AtomikosDataSourceBean;
 
 import tk.mybatis.spring.mapper.ClassPathMapperScanner;
+
+
 
 /**
  * FastDepDataSource Register

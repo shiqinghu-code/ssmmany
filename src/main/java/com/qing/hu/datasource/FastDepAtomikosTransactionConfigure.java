@@ -1,4 +1,4 @@
-package com.louislivi.fastdep.datasource;
+package com.qing.hu.datasource;
 
 import com.atomikos.icatch.jta.UserTransactionImp;
 import com.atomikos.icatch.jta.UserTransactionManager;

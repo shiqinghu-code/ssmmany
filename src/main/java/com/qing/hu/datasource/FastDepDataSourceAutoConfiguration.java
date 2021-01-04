@@ -1,4 +1,4 @@
-package com.louislivi.fastdep.datasource;
+package com.qing.hu.datasource;
 
 import org.springframework.boot.autoconfigure.AutoConfigureBefore;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
